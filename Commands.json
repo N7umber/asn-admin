@@ -1,0 +1,23 @@
+{
+  "revive": "revive",
+  "kill": "kill",
+  "kick": "kick",
+  "freeze": "freeze",
+  "unfreeze": "unfreeze",
+  "car": "car",
+  "givevehicle": "givevehicle",
+  "giveitem": "giveitem",
+  "givemoney": "givemoney",
+  "setjob": "setjob",
+  "announcement": "announcement",
+  "screenshot": "screenshot",
+  "skin": "skin",
+  "ck": "ck",
+  "clearinv": "clearinv",
+  "setgroup": "setgroup",
+  "playerlist": "playerlist",
+  "clearchat": "clearchat",
+  "info": "info",
+  "banplayer": "banplayer",
+  "unban": "unban"
+}
