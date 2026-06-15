@@ -1,0 +1,16 @@
+{
+  "name": "jc_bot",
+  "version": "1.0.0",
+  "description": "Bot simple de Discord con comando hola",
+  "main": "Script/index.js",
+  "scripts": {
+    "start": "node Script/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "mysql2": "^3.11.3"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^5.4.3"
+  }
+}
