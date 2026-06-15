@@ -1,0 +1,22 @@
+{
+  "token": "MTUxNjA1NTI1MzY4NDg1MDc2MA.GbqRaw.f374L4xjzeu8jkSRP_4meaP7f1mdhhItdpARDA",
+  "clientId": "1516055253684850760",
+  "guildId": "1280980223705481326",
+  "language_options": {
+    "es": "Spanish",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "pt": "Portuguese",
+    "pt-br": "Portuguese (Brazil)"
+  },
+  "language": "fr",
+  "database": {
+    "host": "51.75.30.126",
+    "port": 3306,
+    "user": "u1590_yAQ2KWRC1J",
+    "password": "X29dQabqIc05u1M9i2ElM31U",
+    "name": "s1590_ASN"
+  }
+}
